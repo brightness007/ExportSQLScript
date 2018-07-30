@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportSQLScript", "ExportSQLScript\ExportSQLScript.csproj", "{98C614B3-A6D7-4AB9-802D-A92CBA21606E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOption", "NOption\NOption.csproj", "{CE8E411C-1F97-49E0-B23B-D0F11C0233FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C614B3-A6D7-4AB9-802D-A92CBA21606E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C614B3-A6D7-4AB9-802D-A92CBA21606E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C614B3-A6D7-4AB9-802D-A92CBA21606E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C614B3-A6D7-4AB9-802D-A92CBA21606E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8E411C-1F97-49E0-B23B-D0F11C0233FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8E411C-1F97-49E0-B23B-D0F11C0233FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8E411C-1F97-49E0-B23B-D0F11C0233FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8E411C-1F97-49E0-B23B-D0F11C0233FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

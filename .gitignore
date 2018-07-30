@@ -1,0 +1,8 @@
+/Source/ExportSQLScript/bin/*
+/Source/ExportSQLScript/obj/*
+/Source/NOption/bin/*
+/Source/NOption/obj/*
+/Source/.vs/*
+*.ncb
+*.suo
+*.user
